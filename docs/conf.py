@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'test'
+project = 'DTK4412'
 copyright = '2020, Jinyoung Park'
 author = 'Jinyoung Park'
 
